@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="mainactivity2">Name:</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="button">Button</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_address">Enter address</string>
+    <string name="enter_age">Enter age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name:</string>
+    <string name="textviewname">TextViewName</string>
+    <string name="address">Address:</string>
+    <string name="textviewaddress">TextViewAddress</string>
+    <string name="age">Age:</string>
+    <string name="textviewage">TextViewAge</string>
+    <string name="gender_tv">Gender:</string>
+    <string name="textviewgender">TextViewGender</string>
+    <string name="btn_close">Close</string>
+</resources>
